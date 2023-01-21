@@ -121,10 +121,10 @@ class MainWidget(RelativeLayout):
         return False
 
     def init_audio(self):
-        self.sound_begin = SoundLoader.load("audio/begin.wav")
-        self.galaxy = SoundLoader.load("audio/galaxy.wav")
-        self.gameover_impact = SoundLoader.load("audio/gameover_impact.wav")
-        self.music1 = SoundLoader.load("audio/music1.wav")
+        self.sound_begin = SoundLoader.load("begin.wav")
+        self.galaxy = SoundLoader.load("galaxy.wav")
+        self.gameover_impact = SoundLoader.load("gameover_impact.wav")
+        self.music1 = SoundLoader.load("music1.wav")
 
         self.sound_begin.volume = .5
         self.galaxy.volume = .5
