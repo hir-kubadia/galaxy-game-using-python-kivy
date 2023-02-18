@@ -8,7 +8,7 @@ writing zip file /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/librar
 
   Name                      File
   ----                      ----
-m BUILD_CONSTANTS           /tmp/cxfreeze-oia731kt/constants.py
+m BUILD_CONSTANTS           /tmp/cxfreeze-he9h4vde/constants.py
 P OpenSSL                   /usr/lib/python3/dist-packages/OpenSSL/__init__.py
 m OpenSSL.SSL               /usr/lib/python3/dist-packages/OpenSSL/SSL.py
 m OpenSSL._util             /usr/lib/python3/dist-packages/OpenSSL/_util.py
@@ -106,11 +106,9 @@ m PIL._binary               /home/hirlk/.local/lib/python3.8/site-packages/PIL/_
 m PIL._deprecate            /home/hirlk/.local/lib/python3.8/site-packages/PIL/_deprecate.py
 m PIL._imaging              /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imaging.cpython-38-x86_64-linux-gnu.so
 m PIL._imagingcms           /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imagingcms.cpython-38-x86_64-linux-gnu.so
-m PIL._imagingft            /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imagingft.cpython-38-x86_64-linux-gnu.so
-m PIL._imagingmath          /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imagingmath.cpython-38-x86_64-linux-gnu.so
+m PIL._imagingft            /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imagingft.cpython-38-x86_64-linux-gnu.som PIL._imagingmath          /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imagingmath.cpython-38-x86_64-linux-gnu.so
 m PIL._imagingmorph         /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imagingmorph.cpython-38-x86_64-linux-gnu.so
-m PIL._imagingtk            /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imagingtk.cpython-38-x86_64-linux-gnu.so
-m PIL._tkinter_finder       /home/hirlk/.local/lib/python3.8/site-packages/PIL/_tkinter_finder.py
+m PIL._imagingtk            /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imagingtk.cpython-38-x86_64-linux-gnu.som PIL._tkinter_finder       /home/hirlk/.local/lib/python3.8/site-packages/PIL/_tkinter_finder.py
 m PIL._util                 /home/hirlk/.local/lib/python3.8/site-packages/PIL/_util.py
 m PIL._version              /home/hirlk/.local/lib/python3.8/site-packages/PIL/_version.py
 m PIL._webp                 /home/hirlk/.local/lib/python3.8/site-packages/PIL/_webp.cpython-38-x86_64-linux-gnu.so
@@ -339,9 +337,11 @@ m cryptography.hazmat.primitives.asymmetric.dh /usr/lib/python3/dist-packages/cr
 m cryptography.hazmat.primitives.asymmetric.dsa /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/dsa.py
 m cryptography.hazmat.primitives.asymmetric.ec /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/ec.py
 m cryptography.hazmat.primitives.asymmetric.ed25519 /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/ed25519.py
-m cryptography.hazmat.primitives.asymmetric.ed448 /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/ed448.pym cryptography.hazmat.primitives.asymmetric.padding /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/padding.py
+m cryptography.hazmat.primitives.asymmetric.ed448 /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/ed448.py
+m cryptography.hazmat.primitives.asymmetric.padding /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/padding.py
 m cryptography.hazmat.primitives.asymmetric.rsa /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/rsa.py
-m cryptography.hazmat.primitives.asymmetric.utils /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/utils.pym cryptography.hazmat.primitives.asymmetric.x25519 /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/x25519.py
+m cryptography.hazmat.primitives.asymmetric.utils /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/utils.py
+m cryptography.hazmat.primitives.asymmetric.x25519 /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/x25519.py
 m cryptography.hazmat.primitives.asymmetric.x448 /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/asymmetric/x448.py
 P cryptography.hazmat.primitives.ciphers /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/ciphers/__init__.py
 m cryptography.hazmat.primitives.ciphers.aead /usr/lib/python3/dist-packages/cryptography/hazmat/primitives/ciphers/aead.py
@@ -759,8 +759,7 @@ m kivy.uix.vkeyboard        /home/hirlk/.local/lib/python3.8/site-packages/kivy/
 m kivy.uix.widget           /home/hirlk/.local/lib/python3.8/site-packages/kivy/uix/widget.py
 m kivy.utils                /home/hirlk/.local/lib/python3.8/site-packages/kivy/utils.py
 m kivy.vector               /home/hirlk/.local/lib/python3.8/site-packages/kivy/vector.py
-m kivy.weakproxy            /home/hirlk/.local/lib/python3.8/site-packages/kivy/weakproxy.cpython-38-x86_64-linux-gnu.so
-P launchpadlib              /usr/lib/python3/dist-packages/launchpadlib/__init__.py
+m kivy.weakproxy            /home/hirlk/.local/lib/python3.8/site-packages/kivy/weakproxy.cpython-38-x86_64-linux-gnu.soP launchpadlib              /usr/lib/python3/dist-packages/launchpadlib/__init__.py
 m launchpadlib.credentials  /usr/lib/python3/dist-packages/launchpadlib/credentials.py
 m launchpadlib.launchpad    /usr/lib/python3/dist-packages/launchpadlib/launchpad.py
 m launchpadlib.uris         /usr/lib/python3/dist-packages/launchpadlib/uris.py
@@ -839,9 +838,11 @@ P oauthlib.oauth1           /usr/lib/python3/dist-packages/oauthlib/oauth1/__ini
 P oauthlib.oauth1.rfc5849   /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/__init__.py
 P oauthlib.oauth1.rfc5849.endpoints /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/endpoints/__init__.py
 m oauthlib.oauth1.rfc5849.endpoints.access_token /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/endpoints/access_token.py
-m oauthlib.oauth1.rfc5849.endpoints.authorization /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/endpoints/authorization.pym oauthlib.oauth1.rfc5849.endpoints.base /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/endpoints/base.py
+m oauthlib.oauth1.rfc5849.endpoints.authorization /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/endpoints/authorization.py
+m oauthlib.oauth1.rfc5849.endpoints.base /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/endpoints/base.py
 m oauthlib.oauth1.rfc5849.endpoints.pre_configured /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/endpoints/pre_configured.py
-m oauthlib.oauth1.rfc5849.endpoints.request_token /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/endpoints/request_token.pym oauthlib.oauth1.rfc5849.endpoints.resource /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/endpoints/resource.py
+m oauthlib.oauth1.rfc5849.endpoints.request_token /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/endpoints/request_token.py
+m oauthlib.oauth1.rfc5849.endpoints.resource /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/endpoints/resource.py
 m oauthlib.oauth1.rfc5849.endpoints.signature_only /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/endpoints/signature_only.py
 m oauthlib.oauth1.rfc5849.errors /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/errors.py
 m oauthlib.oauth1.rfc5849.parameters /usr/lib/python3/dist-packages/oauthlib/oauth1/rfc5849/parameters.py
@@ -881,24 +882,33 @@ m pkg_resources._vendor.packaging.__about__ /home/hirlk/.local/lib/python3.8/sit
 m pkg_resources._vendor.packaging._manylinux /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/_manylinux.py
 m pkg_resources._vendor.packaging._musllinux /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/_musllinux.py
 m pkg_resources._vendor.packaging._structures /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/_structures.py
-m pkg_resources._vendor.packaging.markers /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/markers.pym pkg_resources._vendor.packaging.requirements /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/requirements.py
+m pkg_resources._vendor.packaging.markers /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/markers.py
+m pkg_resources._vendor.packaging.requirements /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/requirements.py
 m pkg_resources._vendor.packaging.specifiers /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/specifiers.py
 m pkg_resources._vendor.packaging.tags /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/tags.py
 m pkg_resources._vendor.packaging.utils /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/utils.py
-m pkg_resources._vendor.packaging.version /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/version.pyP pkg_resources._vendor.platformdirs /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/platformdirs/__init__.py
+m pkg_resources._vendor.packaging.version /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/version.py
+P pkg_resources._vendor.platformdirs /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/platformdirs/__init__.py
 m pkg_resources._vendor.platformdirs.__main__ /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/platformdirs/__main__.py
 m pkg_resources._vendor.platformdirs.android /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/platformdirs/android.py
 m pkg_resources._vendor.platformdirs.api /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/platformdirs/api.py
 m pkg_resources._vendor.platformdirs.macos /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/platformdirs/macos.py
-m pkg_resources._vendor.platformdirs.unix /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/platformdirs/unix.pym pkg_resources._vendor.platformdirs.version /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/platformdirs/version.py
+m pkg_resources._vendor.platformdirs.unix /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/platformdirs/unix.py
+m pkg_resources._vendor.platformdirs.version /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/platformdirs/version.py
 m pkg_resources._vendor.platformdirs.windows /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/platformdirs/windows.py
 P pkg_resources._vendor.pyparsing /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/__init__.py
-m pkg_resources._vendor.pyparsing.actions /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/actions.pym pkg_resources._vendor.pyparsing.common /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/common.py
+m pkg_resources._vendor.pyparsing.actions /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/actions.py
+m pkg_resources._vendor.pyparsing.common /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/common.py
 m pkg_resources._vendor.pyparsing.core /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/core.py
 P pkg_resources._vendor.pyparsing.diagram /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/diagram/__init__.py
 m pkg_resources._vendor.pyparsing.exceptions /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/exceptions.py
-m pkg_resources._vendor.pyparsing.helpers /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/helpers.pym pkg_resources._vendor.pyparsing.results /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/results.pym pkg_resources._vendor.pyparsing.testing /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/testing.pym pkg_resources._vendor.pyparsing.unicode /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/unicode.pym pkg_resources._vendor.pyparsing.util /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/util.py
-m pkg_resources._vendor.typing_extensions /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/typing_extensions.pym pkg_resources._vendor.zipp /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/zipp.py
+m pkg_resources._vendor.pyparsing.helpers /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/helpers.py
+m pkg_resources._vendor.pyparsing.results /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/results.py
+m pkg_resources._vendor.pyparsing.testing /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/testing.py
+m pkg_resources._vendor.pyparsing.unicode /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/unicode.py
+m pkg_resources._vendor.pyparsing.util /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/pyparsing/util.py
+m pkg_resources._vendor.typing_extensions /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/typing_extensions.py
+m pkg_resources._vendor.zipp /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/_vendor/zipp.py
 P pkg_resources.extern      /home/hirlk/.local/lib/python3.8/site-packages/pkg_resources/extern/__init__.py
 m pkgutil                   /usr/lib/python3.8/pkgutil.py
 m platform                  /usr/lib/python3.8/platform.py
@@ -1132,8 +1142,7 @@ Missing modules:
 ? multiprocessing.AuthenticationError imported from multiprocessing.connection
 ? multiprocessing.BufferTooShort imported from multiprocessing.connection
 ? multiprocessing.TimeoutError imported from multiprocessing.pool
-? multiprocessing.get_context imported from multiprocessing.managers, multiprocessing.pool, multiprocessing.sharedctypes
-? multiprocessing.get_start_method imported from multiprocessing.spawn
+? multiprocessing.get_context imported from multiprocessing.managers, multiprocessing.pool, multiprocessing.sharedctypes? multiprocessing.get_start_method imported from multiprocessing.spawn
 ? multiprocessing.set_start_method imported from multiprocessing.spawn
 ? nt imported from ctypes, importlib._bootstrap_external, ntpath, os, pathlib, shutil
 ? nturl2path imported from urllib.request
@@ -1189,34 +1198,34 @@ creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/PIL
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imagingmorph.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/PIL/_imagingmorph.cpython-38-x86_64-linux-gnu.so
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imagingft.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/PIL/_imagingft.cpython-38-x86_64-linux-gnu.so
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs
+copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libharfbuzz-c78ddc5e.so.0.60000.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libharfbuzz-c78ddc5e.so.0.60000.0
+WARNING: cannot find 'libfreetype-2a21fedc.so.6.18.3'
+copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libbrotlicommon-cf2297e4.so.1.0.9 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libbrotlicommon-cf2297e4.so.1.0.9
+copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libpng16-021811b1.so.16.39.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libpng16-021811b1.so.16.39.0
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libbrotlidec-97e69943.so.1.0.9 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libbrotlidec-97e69943.so.1.0.9
 WARNING: cannot find 'libbrotlicommon-cf2297e4.so.1.0.9'
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libfreetype-2a21fedc.so.6.18.3 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libfreetype-2a21fedc.so.6.18.3
 WARNING: cannot find 'libpng16-021811b1.so.16.39.0'
 WARNING: cannot find 'libbrotlidec-97e69943.so.1.0.9'
-copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libbrotlicommon-cf2297e4.so.1.0.9 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libbrotlicommon-cf2297e4.so.1.0.9
-copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libpng16-021811b1.so.16.39.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libpng16-021811b1.so.16.39.0
-copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libharfbuzz-c78ddc5e.so.0.60000.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libharfbuzz-c78ddc5e.so.0.60000.0
-WARNING: cannot find 'libfreetype-2a21fedc.so.6.18.3'
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imaging.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/PIL/_imaging.cpython-38-x86_64-linux-gnu.so
-copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/liblzma-85b6360a.so.5.4.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/liblzma-85b6360a.so.5.4.0
+copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libXau-00ec42fe.so.6.0.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libXau-00ec42fe.so.6.0.0
+copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libjpeg-2c0fa17f.so.62.3.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libjpeg-2c0fa17f.so.62.3.0
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libxcb-421a6fdb.so.1.1.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libxcb-421a6fdb.so.1.1.0
 WARNING: cannot find 'libXau-00ec42fe.so.6.0.0'
-copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libjpeg-2c0fa17f.so.62.3.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libjpeg-2c0fa17f.so.62.3.0
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libtiff-ac0c3d92.so.6.0.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libtiff-ac0c3d92.so.6.0.0
 WARNING: cannot find 'liblzma-85b6360a.so.5.4.0'
 WARNING: cannot find 'libjpeg-2c0fa17f.so.62.3.0'
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libopenjp2-fca9bf24.so.2.5.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libopenjp2-fca9bf24.so.2.5.0
-copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libXau-00ec42fe.so.6.0.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libXau-00ec42fe.so.6.0.0
+copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/liblzma-85b6360a.so.5.4.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/liblzma-85b6360a.so.5.4.0
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imagingmath.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/PIL/_imagingmath.cpython-38-x86_64-linux-gnu.so
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imagingcms.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/PIL/_imagingcms.cpython-38-x86_64-linux-gnu.so
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/liblcms2-f8fefe53.so.2.0.14 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/liblcms2-f8fefe53.so.2.0.14
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/_imagingtk.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/PIL/_imagingtk.cpython-38-x86_64-linux-gnu.so
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/_webp.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/PIL/_webp.cpython-38-x86_64-linux-gnu.so
-copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libwebpdemux-ac83b303.so.2.0.11 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libwebpdemux-ac83b303.so.2.0.11
-WARNING: cannot find 'libwebp-b246aa5a.so.7.1.5'
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libwebp-b246aa5a.so.7.1.5 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libwebp-b246aa5a.so.7.1.5
 copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libwebpmux-502c7428.so.3.0.10 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libwebpmux-502c7428.so.3.0.10
+WARNING: cannot find 'libwebp-b246aa5a.so.7.1.5'
+copying /home/hirlk/.local/lib/python3.8/site-packages/PIL/../Pillow.libs/libwebpdemux-ac83b303.so.2.0.11 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Pillow.libs/libwebpdemux-ac83b303.so.2.0.11
 copying data from package apport...
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/apport
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/apport/crashdb_impl
@@ -1243,8 +1252,7 @@ creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/cryp
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/cryptography/hazmat/primitives
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/cryptography/hazmat/primitives/ciphers
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/cryptography/hazmat/primitives/asymmetric
-creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/cryptography/hazmat/primitives/serialization
-creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/cryptography/hazmat/primitives/twofactor
+creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/cryptography/hazmat/primitives/serializationcreating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/cryptography/hazmat/primitives/twofactor
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/cryptography/hazmat/primitives/kdf
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/cryptography/hazmat/bindings
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/cryptography/hazmat/bindings/openssl
@@ -1255,8 +1263,7 @@ copying data from package distutils...
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/distutils
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/distutils/command
 copying /usr/lib/python3.8/distutils/command/command_template -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/distutils/command/command_template
-copying /usr/lib/python3.8/distutils/README -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/distutils/README
-copying data from package email...
+copying /usr/lib/python3.8/distutils/README -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/distutils/READMEcopying data from package email...
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/email
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/email/mime
 copying /usr/lib/python3.8/email/architecture.rst -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/email/architecture.rst
@@ -1355,8 +1362,7 @@ copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tests/pyinstaller/vi
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tests/pyinstaller/video_widget/project
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tests/pyinstaller/simple_widget
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tests/pyinstaller/simple_widget/main.spec -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tests/pyinstaller/simple_widget/main.spec
-creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tests/pyinstaller/simple_widget/project
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tests/coverage_lang.kv -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tests/coverage_lang.kv
+creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tests/pyinstaller/simple_widget/projectcopying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tests/coverage_lang.kv -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tests/coverage_lang.kv
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tests/testkv.kv -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tests/testkv.kv
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tests/unicode_files.zip -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tests/unicode_files.zip
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tests/test_issues
@@ -1389,35 +1395,35 @@ creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/text_layout.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/core/text/text_layout.cpython-38-x86_64-linux-gnu.so
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/_text_sdl2.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/core/text/_text_sdl2.cpython-38-x86_64-linux-gnu.so
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libjpeg-43436dd5.so.62.1.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libjpeg-43436dd5.so.62.1.0
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libvorbisfile-c5d289a9.so.3.3.5 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libvorbisfile-c5d289a9.so.3.3.5
-WARNING: cannot find 'libvorbis-02341991.so.0.4.6'
+copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libpng15-ce838cd1.so.15.13.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libpng15-ce838cd1.so.15.13.0
+copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libSDL2-2-4284a8f3.0.so.0.18.2 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libSDL2-2-4284a8f3.0.so.0.18.2
+WARNING: cannot find 'libsamplerate-6fb223e4.so.0.1.8'
+WARNING: cannot find 'libXxf86vm-3971cbbb.so.1.0.0'
+copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libFLAC-b0904aee.so.8.3.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libFLAC-b0904aee.so.8.3.0
 WARNING: cannot find 'libogg-24eaa32b.so.0.8.0'
+copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libSDL2_mixer-2-8e2fe9a9.0.so.0.2.2 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libSDL2_mixer-2-8e2fe9a9.0.so.0.2.2
+WARNING: cannot find 'libSDL2-2-4284a8f3.0.so.0.18.2'
+WARNING: cannot find 'libmodplug-80ecf8ef.so.1.0.0'
+WARNING: cannot find 'libvorbisfile-c5d289a9.so.3.3.5'
+WARNING: cannot find 'libvorbis-02341991.so.0.4.6'
+WARNING: cannot find 'libFLAC-b0904aee.so.8.3.0'
+copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libjpeg-43436dd5.so.62.1.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libjpeg-43436dd5.so.62.1.0
+copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libogg-24eaa32b.so.0.8.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libogg-24eaa32b.so.0.8.0
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libtiff-b6eb22fb.so.5.2.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libtiff-b6eb22fb.so.5.2.0
 WARNING: cannot find 'libjbig-78348776.so.2.0'
 WARNING: cannot find 'libjpeg-43436dd5.so.62.1.0'
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libFLAC-b0904aee.so.8.3.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libFLAC-b0904aee.so.8.3.0
+copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libmodplug-80ecf8ef.so.1.0.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libmodplug-80ecf8ef.so.1.0.0
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libwebp-2877905a.so.4.0.2 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libwebp-2877905a.so.4.0.2
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libsamplerate-6fb223e4.so.0.1.8 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libsamplerate-6fb223e4.so.0.1.8
+copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libjbig-78348776.so.2.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libjbig-78348776.so.2.0
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libSDL2_image-2-3e7c5b61.0.so.0.2.3 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libSDL2_image-2-3e7c5b61.0.so.0.2.3
 WARNING: cannot find 'libpng15-ce838cd1.so.15.13.0'
 WARNING: cannot find 'libtiff-b6eb22fb.so.5.2.0'
 WARNING: cannot find 'libwebp-2877905a.so.4.0.2'
-WARNING: cannot find 'libSDL2-2-4284a8f3.0.so.0.18.2'
-WARNING: cannot find 'libsamplerate-6fb223e4.so.0.1.8'
-WARNING: cannot find 'libXxf86vm-3971cbbb.so.1.0.0'
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libpng15-ce838cd1.so.15.13.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libpng15-ce838cd1.so.15.13.0
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libSDL2_mixer-2-8e2fe9a9.0.so.0.2.2 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libSDL2_mixer-2-8e2fe9a9.0.so.0.2.2
-WARNING: cannot find 'libmodplug-80ecf8ef.so.1.0.0'
-WARNING: cannot find 'libvorbisfile-c5d289a9.so.3.3.5'
-WARNING: cannot find 'libFLAC-b0904aee.so.8.3.0'
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libmodplug-80ecf8ef.so.1.0.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libmodplug-80ecf8ef.so.1.0.0
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libSDL2-2-4284a8f3.0.so.0.18.2 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libSDL2-2-4284a8f3.0.so.0.18.2
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libXxf86vm-3971cbbb.so.1.0.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libXxf86vm-3971cbbb.so.1.0.0
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libSDL2_ttf-2-d5216ce1.0.so.0.18.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libSDL2_ttf-2-d5216ce1.0.so.0.18.0
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libjbig-78348776.so.2.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libjbig-78348776.so.2.0
+copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libsamplerate-6fb223e4.so.0.1.8 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libsamplerate-6fb223e4.so.0.1.8
+copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libvorbisfile-c5d289a9.so.3.3.5 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libvorbisfile-c5d289a9.so.3.3.5
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libvorbis-02341991.so.0.4.6 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libvorbis-02341991.so.0.4.6
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libogg-24eaa32b.so.0.8.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libogg-24eaa32b.so.0.8.0
+copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/../../../Kivy.libs/libXxf86vm-3971cbbb.so.1.0.0 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/Kivy.libs/libXxf86vm-3971cbbb.so.1.0.0
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/text/text_layout.pxd -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/core/text/text_layout.pxd
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/core/image
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/core/image/_img_sdl2.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/core/image/_img_sdl2.cpython-38-x86_64-linux-gnu.so
@@ -1508,13 +1514,11 @@ creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy
 creating directory /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/splitter_disabled_down.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/splitter_disabled_down.png
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/textinput.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/textinput.png
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/checkbox_radio_disabled_on.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/checkbox_radio_disabled_on.png
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/checkbox_off.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/checkbox_off.png
+copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/checkbox_radio_disabled_on.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/checkbox_radio_disabled_on.pngcopying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/checkbox_off.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/checkbox_off.png
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/audio-volume-muted.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/audio-volume-muted.png
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/checkbox_disabled_on.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/checkbox_disabled_on.png
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/tree_closed.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/tree_closed.png
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/switch-background_disabled.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/switch-background_disabled.png
-copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/splitter.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/splitter.png
+copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/switch-background_disabled.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/switch-background_disabled.pngcopying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/splitter.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/splitter.png
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/vkeyboard_background.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/vkeyboard_background.png
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/splitter_grip.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/splitter_grip.png
 copying /home/hirlk/.local/lib/python3.8/site-packages/kivy/tools/theming/defaulttheme/button_disabled_pressed.png -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/kivy/tools/theming/defaulttheme/button_disabled_pressed.png
@@ -1740,9 +1744,9 @@ copying /home/hirlk/.local/lib/python3.8/site-packages/cx_Freeze/bases/lib-dynlo
 copying /home/hirlk/.local/lib/python3.8/site-packages/cx_Freeze/bases/lib-dynload/mmap.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/mmap.cpython-38-x86_64-linux-gnu.so
 copying /home/hirlk/.local/lib/python3.8/site-packages/cx_Freeze/bases/lib-dynload/pyexpat.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/pyexpat.cpython-38-x86_64-linux-gnu.so
 copying /home/hirlk/.local/lib/python3.8/site-packages/cx_Freeze/bases/lib-dynload/readline.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/readline.cpython-38-x86_64-linux-gnu.so
+copying /home/hirlk/.local/lib/python3.8/site-packages/cx_Freeze/bases/lib-dynload/../lib/libtinfo-10270e32.so.5.9 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/libtinfo-10270e32.so.5.9
 copying /home/hirlk/.local/lib/python3.8/site-packages/cx_Freeze/bases/lib-dynload/../lib/libreadline-2c5f7b8d.so.6.2 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/libreadline-2c5f7b8d.so.6.2
 WARNING: cannot find 'libtinfo-10270e32.so.5.9'
-copying /home/hirlk/.local/lib/python3.8/site-packages/cx_Freeze/bases/lib-dynload/../lib/libtinfo-10270e32.so.5.9 -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/libtinfo-10270e32.so.5.9
 copying /home/hirlk/.local/lib/python3.8/site-packages/cx_Freeze/bases/lib-dynload/resource.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/resource.cpython-38-x86_64-linux-gnu.so
 copying /home/hirlk/.local/lib/python3.8/site-packages/cx_Freeze/bases/lib-dynload/select.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/select.cpython-38-x86_64-linux-gnu.so
 copying /home/hirlk/.local/lib/python3.8/site-packages/cx_Freeze/bases/lib-dynload/termios.cpython-38-x86_64-linux-gnu.so -> /mnt/c/users/hirlk/galaxy/build/exe.linux-x86_64-3.8/lib/termios.cpython-38-x86_64-linux-gnu.so
